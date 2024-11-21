@@ -2,7 +2,7 @@
 @import url("https://db.onlinewebfonts.com/c/d79b9614150d5ef0047ee7f8be594b37?family=hooge+05_55+Cyr2");
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif, "hooge 05_55 Cyr2";
     background-image: url('../images/back.jpg');
     color: #FFFFFF;
     margin: 0;

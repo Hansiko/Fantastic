@@ -27,7 +27,6 @@ body::-webkit-scrollbar {
 
 h1 {
     font-family: "hooge 05_55 Cyr2";
-    font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-weight: 700;
     color: #FFFFFF;
@@ -37,7 +36,6 @@ h1 {
 }
 
 h2 {
-    font-family: 'Poppins', sans-serif;
     font-size: 36px;
     font-weight: 600;
     font-family: "hooge 05_55 Cyr2";

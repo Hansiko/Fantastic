@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@300;400;500&display=swap');
+@import url("https://db.onlinewebfonts.com/c/d79b9614150d5ef0047ee7f8be594b37?family=hooge+05_55+Cyr2");
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -25,6 +26,7 @@ body::-webkit-scrollbar {
 }
 
 h1 {
+    font-family: "hooge 05_55 Cyr2";
     font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-weight: 700;
@@ -38,7 +40,7 @@ h2 {
     font-family: 'Poppins', sans-serif;
     font-size: 36px;
     font-weight: 600;
-
+    font-family: "hooge 05_55 Cyr2";
     color: #FF4500;
     letter-spacing: 0.5px;
     margin-bottom: 20px; /* Увеличиваем отступ снизу */
